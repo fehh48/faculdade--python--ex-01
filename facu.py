@@ -13,3 +13,6 @@ print("Jose\t2054534")
 pi = 3.141592
 print("p valor de PI é: {:.3f}".format(pi))
 print(f"p valor de PI é: {pi}")
+
+num = 1
+print(f'{num:05d}')
